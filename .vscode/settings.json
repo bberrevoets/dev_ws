@@ -1,0 +1,11 @@
+{
+    "cmake.configureOnOpen": true,
+    "python.analysis.typeCheckingMode": "basic",
+    "files.exclude": {
+        "**/.gitignore": true,
+        "**/build": true
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "python.analysis.autoImportCompletions": true,
+    "C_Cpp.default.compilerPath": "/usr/bin/g++-11"
+}
